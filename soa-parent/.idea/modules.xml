@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/soa-common/soa-common.iml" filepath="$PROJECT_DIR$/soa-common/soa-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-common/soa-common-core/soa-common-core.iml" filepath="$PROJECT_DIR$/soa-common/soa-common-core/soa-common-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-consumer-web/soa-consumer-web.iml" filepath="$PROJECT_DIR$/soa-consumer-web/soa-consumer-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-doc/soa-doc.iml" filepath="$PROJECT_DIR$/soa-doc/soa-doc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-order/soa-order.iml" filepath="$PROJECT_DIR$/soa-order/soa-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-order/soa-order-api/soa-order-api.iml" filepath="$PROJECT_DIR$/soa-order/soa-order-api/soa-order-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-order/soa-order-core/soa-order-core.iml" filepath="$PROJECT_DIR$/soa-order/soa-order-core/soa-order-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-other/soa-other.iml" filepath="$PROJECT_DIR$/soa-other/soa-other.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-other/soa-other-dubbo-adpative/soa-other-dubbo-adpative.iml" filepath="$PROJECT_DIR$/soa-other/soa-other-dubbo-adpative/soa-other-dubbo-adpative.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-other/soa-other-dubbo-compiler/soa-other-dubbo-compiler.iml" filepath="$PROJECT_DIR$/soa-other/soa-other-dubbo-compiler/soa-other-dubbo-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-other/soa-other-dubbo-spi/soa-other-dubbo-spi.iml" filepath="$PROJECT_DIR$/soa-other/soa-other-dubbo-spi/soa-other-dubbo-spi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-other/soa-other-netty/soa-other-netty.iml" filepath="$PROJECT_DIR$/soa-other/soa-other-netty/soa-other-netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-other/soa-other-spring-schema/soa-other-spring-schema.iml" filepath="$PROJECT_DIR$/soa-other/soa-other-spring-schema/soa-other-spring-schema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-other/soa-other-zk/soa-other-zk.iml" filepath="$PROJECT_DIR$/soa-other/soa-other-zk/soa-other-zk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-parent.iml" filepath="$PROJECT_DIR$/soa-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-product/soa-product.iml" filepath="$PROJECT_DIR$/soa-product/soa-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-product/soa-product-api/soa-product-api.iml" filepath="$PROJECT_DIR$/soa-product/soa-product-api/soa-product-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-product/soa-product-core/soa-product-core.iml" filepath="$PROJECT_DIR$/soa-product/soa-product-core/soa-product-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-trade/soa-trade.iml" filepath="$PROJECT_DIR$/soa-trade/soa-trade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-trade/soa-trade-api/soa-trade-api.iml" filepath="$PROJECT_DIR$/soa-trade/soa-trade-api/soa-trade-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-trade/soa-trade-core/soa-trade-core.iml" filepath="$PROJECT_DIR$/soa-trade/soa-trade-core/soa-trade-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-user/soa-user.iml" filepath="$PROJECT_DIR$/soa-user/soa-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-user/soa-user-api/soa-user-api.iml" filepath="$PROJECT_DIR$/soa-user/soa-user-api/soa-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-user/soa-user-core/soa-user-core.iml" filepath="$PROJECT_DIR$/soa-user/soa-user-core/soa-user-core.iml" />
+    </modules>
+  </component>
+</project>

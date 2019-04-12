@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/soa-common/soa-common-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/soa-consumer-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/soa-doc/src/consumer-ref" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/soa-doc/src/consumer-request" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/soa-doc/src/provider-export" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/soa-doc/src/provider-response" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/soa-doc/src/异步-同步" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/soa-doc/src/编解码" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/soa-doc/src/重要概念介绍" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/soa-order/soa-order-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/soa-order/soa-order-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/soa-other/soa-other-dubbo-adpative" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/soa-other/soa-other-dubbo-compiler" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/soa-other/soa-other-dubbo-spi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/soa-other/soa-other-netty" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/soa-other/soa-other-spring-schema" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/soa-other/soa-other-zk" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/soa-product/soa-product-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/soa-product/soa-product-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/soa-trade/soa-trade-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/soa-trade/soa-trade-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/soa-user/soa-user-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/soa-user/soa-user-core" charset="UTF-8" />
+  </component>
+</project>

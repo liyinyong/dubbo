@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="soa-common-core" />
+        <module name="soa-consumer-web" />
+        <module name="soa-order-api" />
+        <module name="soa-order-core" />
+        <module name="soa-other-dubbo-adpative" />
+        <module name="soa-other-dubbo-compiler" />
+        <module name="soa-other-dubbo-spi" />
+        <module name="soa-other-netty" />
+        <module name="soa-other-spring-schema" />
+        <module name="soa-other-zk" />
+        <module name="soa-product-api" />
+        <module name="soa-product-core" />
+        <module name="soa-trade-api" />
+        <module name="soa-trade-core" />
+        <module name="soa-user-api" />
+        <module name="soa-user-core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="soa-common" target="1.5" />
+      <module name="soa-common-core" target="1.5" />
+      <module name="soa-consumer-web" target="1.5" />
+      <module name="soa-doc" target="1.5" />
+      <module name="soa-order" target="1.5" />
+      <module name="soa-order-api" target="1.5" />
+      <module name="soa-order-core" target="1.5" />
+      <module name="soa-other" target="1.5" />
+      <module name="soa-other-dubbo-adpative" target="1.5" />
+      <module name="soa-other-dubbo-compiler" target="1.5" />
+      <module name="soa-other-dubbo-spi" target="1.5" />
+      <module name="soa-other-netty" target="1.5" />
+      <module name="soa-other-spring-schema" target="1.5" />
+      <module name="soa-other-zk" target="1.5" />
+      <module name="soa-parent" target="1.5" />
+      <module name="soa-product" target="1.5" />
+      <module name="soa-product-api" target="1.5" />
+      <module name="soa-product-core" target="1.5" />
+      <module name="soa-trade" target="1.5" />
+      <module name="soa-trade-api" target="1.5" />
+      <module name="soa-trade-core" target="1.5" />
+      <module name="soa-user" target="1.5" />
+      <module name="soa-user-api" target="1.5" />
+      <module name="soa-user-core" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
